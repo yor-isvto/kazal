@@ -1,0 +1,24 @@
+
+@font-face {
+    font-family: 'jn';
+    src: url('jannaltregular.eot');
+    src: url('jannaltregular.eot') format('embedded-opentype'),
+         url('jannaltregular.woff2') format('woff2'),
+         url('jannaltregular.woff') format('woff'),
+         url('jannaltregular.ttf') format('truetype'),
+         url('jannaltregular.svg#jannaltregular') format('svg');
+	     font-weight:400;
+}
+
+
+
+@font-face {
+    font-family: 'jn';
+    src: url('jannaltbold.eot');
+    src: url('jannaltbold.eot') format('embedded-opentype'),
+         url('jannaltbold.woff2') format('woff2'),
+         url('jannaltbold.woff') format('woff'),
+         url('jannaltbold.ttf') format('truetype'),
+         url('jannaltbold.svg#jannaltbold') format('svg');
+	     font-weight:700;
+}
